@@ -6,3 +6,4 @@ function feed(parent, args, context, info){
 module.exprots = {
     feed,
 }
+
